@@ -1,0 +1,19 @@
+body{
+    width: 300px;
+    /* border: solid 1px rgb(223, 223, 223); */
+}
+
+h1{
+    background-color: rgb(234, 243, 245);
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 0;
+}
+
+.log{
+    border: solid 1px rgb(215, 242, 242);
+    height: 200px;
+    overflow-x: auto;
+    width: 300px;
+    color: gray;
+}

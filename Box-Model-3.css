@@ -1,0 +1,27 @@
+form{
+    border: solid 1px whitesmoke;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 300px;
+}
+
+.user{
+    display: block;  
+    margin-bottom: 10px;
+    width: 275px;
+    padding: 5px;
+}
+.email{
+    display: block;
+    margin-bottom: 10px;
+    width: 275px;
+    padding: 5px;
+}
+
+button{
+    width: 290px;
+    padding: 5px;
+    background-color: rgb(43, 146, 249);
+    color:white;
+}
